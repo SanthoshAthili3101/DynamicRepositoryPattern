@@ -15,8 +15,4 @@
 	  <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\DynamicRepositoryPattern.Infrastructure\DynamicRepositoryPattern.Infrastructure.csproj" />
-  </ItemGroup>
-
 </Project>

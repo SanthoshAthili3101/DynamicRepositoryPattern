@@ -5,8 +5,6 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicRepositoryPattern", "DynamicRepositoryPattern.csproj", "{9BD2E0D3-83E7-40C3-ABCF-4296513F14E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicRepositoryPattern.Infrastructure", "..\DynamicRepositoryPattern.Infrastructure\DynamicRepositoryPattern.Infrastructure.csproj", "{D1F0F5F1-6385-40FD-A045-B60E42BA9778}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{9BD2E0D3-83E7-40C3-ABCF-4296513F14E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BD2E0D3-83E7-40C3-ABCF-4296513F14E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BD2E0D3-83E7-40C3-ABCF-4296513F14E0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D1F0F5F1-6385-40FD-A045-B60E42BA9778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D1F0F5F1-6385-40FD-A045-B60E42BA9778}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D1F0F5F1-6385-40FD-A045-B60E42BA9778}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D1F0F5F1-6385-40FD-A045-B60E42BA9778}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
